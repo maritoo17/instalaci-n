@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/marito/Documents/GitHub/instalaci-n",
-      "program": "/Users/marito/Documents/GitHub/instalaci-n/build/Debug/outDebug"
+      "cwd": "/Users/marito/anaconda3/instalaci-n/instalaci-n",
+      "program": "/Users/marito/anaconda3/instalaci-n/instalaci-n/build/Debug/outDebug"
     }
   ]
 }
